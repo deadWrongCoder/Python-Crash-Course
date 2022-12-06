@@ -1,0 +1,5 @@
+pizzas = ["con carne", 'with cheese', "with chicken"]
+
+for type in pizzas:
+    print(f"I like pizza {type}")
+print("Honestly, I'm not a big fan of pizza, guys.")
